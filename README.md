@@ -1,2 +1,2 @@
-# Exercicios-de-JavaScript
- Projetos de introdução ao JavaScript
+# Exercicios de JavaScript
+ Projetos básicos para aprender e exercitar JavaScript.
